@@ -1,0 +1,1 @@
+This is to inform that support for DDDI will be removed from today
